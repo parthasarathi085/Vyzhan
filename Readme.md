@@ -1,2 +1,10 @@
 ## Last update: 27-05-2024
-# Updated by: PARTHASARATHI M
+
+## abbreviation:
+- FE -> Frontend(React Js)
+- BE -> Backend(SpringBoot/React Js)
+
+## Date: 26-05-2024
+### Discussion:
+- 
+- 
